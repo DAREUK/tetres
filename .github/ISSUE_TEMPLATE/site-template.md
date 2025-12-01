@@ -1,5 +1,5 @@
 ---
-name: 'Site: "template"'
+name: Site template
 about: Descriptive issue for site platform & config details
 title: "[site] "
 labels: site
