@@ -1,0 +1,5 @@
+overrides:
+  # Zensical uses Python Markdown, which requires 4 spaces for indents
+  - files: "*.md"
+    options:
+      tabWidth: 4
