@@ -1,6 +1,6 @@
 ---
 name: Experiment template
-about: Expeimental deployments between sites
+about: Experimental deployments between sites
 title: "[experiment] "
 labels: experiment
 assignees: ""
