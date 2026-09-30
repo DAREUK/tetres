@@ -16,6 +16,8 @@ markdown==3.10.3
     #   zensical
 markupsafe==3.0.3
     # via jinja2
+pathspec==1.1.1
+    # via zensical
 pygments==2.21.0
     # via zensical
 pymdown-extensions==12.1
@@ -26,5 +28,5 @@ pyyaml==6.0.3
     #   zensical
 tomli==2.4.1
     # via zensical
-zensical==0.0.64
+zensical==0.0.65
     # via -r requirements.in
