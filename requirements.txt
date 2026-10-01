@@ -28,5 +28,5 @@ pyyaml==6.0.3
     #   zensical
 tomli==2.4.1
     # via zensical
-zensical==0.0.65
+zensical==0.0.66
     # via -r requirements.in
