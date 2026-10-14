@@ -113,6 +113,7 @@ pymdownx.arithmatex = {
   generic = true
 }
 pymdownx.betterem = {}
+pymdownx.blocks.caption = {}
 pymdownx.caret = {}
 pymdownx.details = {}
 pymdownx.emoji = {
